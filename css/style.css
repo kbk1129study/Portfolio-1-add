@@ -81,7 +81,7 @@ figure.Projects img { width: 600px; height: 400px; object-fit: cover; transition
   #fullpage .section:nth-child(2) .sectionInner { width: 95%; height: 95%; margin: 0 auto; position: relative; bottom: 0; text-align: center; justify-content: center; } 
   #fullpage .section:nth-child(2) h2.title { top: 0; width: 100px; color: #fff; font-size: 40px; border-top: 1px solid #fff; font-family: "Khand", sans-serif; font-weight: 400; position: absolute; } 
   #fullpage .section:nth-child(2) figure.ToolImgs { width: 100%; height: 100%; position: absolute; top: 0; left: 0; } 
-  #fullpage .section:nth-child(2) figure.ToolImgs ul { position: relative; display: block; width: 90%; height: 700px; text-align: left; display: flex; flex-wrap: wrap; } 
+  #fullpage .section:nth-child(2) figure.ToolImgs ul { position: relative; display: block; width: 90%; height: 540px; text-align: left; display: flex; flex-wrap: wrap; } 
   #fullpage .section:nth-child(2) figure.ToolImgs ul li { position: relative; left: 0; text-align: left; text-align: left; display: flex; flex-wrap: wrap; width:110px; height: 60px; margin: 0 auto; } 
   #fullpage .section:nth-child(2) figure.ToolImgs ul li img { text-align: left; position: relative; width: 30px; height: 30px; padding: 0; top: 15px; margin: 0; left: 0; } 
   #fullpage .section:nth-child(2) figure.ToolImgs li span { font-size: 9px; text-align: left; position: absolute; left: 48px; margin: 0; top:22px; } 
